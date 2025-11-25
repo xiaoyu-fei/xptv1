@@ -15,6 +15,13 @@ let appConfig = {
             ui: 1,
         },
         {
+            name: 'chinese',
+            ext: {
+                href: '/categories/chinese',
+            },
+            ui: 1,
+        },
+        {
             name: 'weekly best',
             ext: {
                 href: '/best/weekly',
