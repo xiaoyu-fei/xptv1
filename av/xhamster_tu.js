@@ -17,7 +17,7 @@ let appConfig = {
         {
             name: 'chinese',
             ext: {
-                href: '/categories/chinese',
+                href: '/categories/chinese/4k',
             },
             ui: 1,
         },
